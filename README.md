@@ -1,1 +1,1 @@
-# enigma_recru_ex_1
+The task involves implementing an object-oriented model of trees in Java, representing deciduous and coniferous trees, taking into account common features such as trunk, branches, leaves, and methods like grow().
